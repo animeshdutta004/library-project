@@ -100,4 +100,5 @@ void return_book(struct Library* library, int id) {
 }
 
 void print_inventory(const struct Library* library) {
-    printf("Library Inventory:\
+    printf("Library Inventory");
+}
